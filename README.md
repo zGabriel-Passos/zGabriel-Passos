@@ -34,7 +34,7 @@ Sou um **Desenvolvedor Web Full-stack** focado em criar soluções escaláveis, 
 - **LinkedIn**: [gabriel-oliveira-passos](https://www.linkedin.com/in/gabriel-oliveira-passos-7b0abb2b6)
 - **Portfólio/GitHub**: [zGabriel-Passos](https://github.com/zGabriel-Passos)
 - **E-mail**: [gabrielop1@hotmail.com](mailto:gabrielop1@hotmail.com)
-- **YouTube**: [@xzgabri31](https://youtube.com/@@xzGabri3l)
+- **YouTube**: [@@xzGabri3l](https://youtube.com/@xzGabri3l)
 
 ---
 *"Focado em aprender, produzir e inovar constantemente."*
