@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Passos! 👋
 
-Desenvolvedor Full-Stack em formação, construindo projetos reais com **React**, **Next.js**, **Python** e **IA**. 
+Desenvolvedor Full-Stack em formação, construindo projetos reais com **React**, **Next.js**, **Python**, **TS** e **IA**. 
 Transformo ideias em código funcional e busco minha primeira oportunidade como estagiário.
 
 ---
