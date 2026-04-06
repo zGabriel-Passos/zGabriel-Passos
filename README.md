@@ -9,7 +9,7 @@ Transformo ideias em código funcional e busco minha primeira oportunidade como 
 
 - 🎓 Técnico em **Informática para Internet** | Cursando **ADS na UNIP**
 - 💻 3+ projetos full-stack no ar (automação, IA agents, dashboards)
-- 🤖 Criando agentes de IA com **N8N**, **Python** e **APIs modernas**
+- 🤖 Criando agentes de IA com **N8N**, **Python**, **Claude** e **APIs modernas**
 - 🎯 Foco atual: **SaaS com Next.js** e **automação inteligente**
 - 📍 São Paulo, SP | Disponível para estágio presencial ou remoto
 
